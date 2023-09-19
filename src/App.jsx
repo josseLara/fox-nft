@@ -3,7 +3,7 @@ import Question from './components/Questions'
 import Team from './components/Team'
 import Footer from './components/Footer'
 import NavbarFox from './components/NavbarFox'
-import FoxsAvatars from './components/foxsAvatars'
+import FoxsAvatars from './components/FoxsAvatars'
 import { foxsData } from './data/foxs'
 
 
